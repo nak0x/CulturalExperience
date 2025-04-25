@@ -1,0 +1,3 @@
+/Users/nak/Projects/CulturalExperience/Code/3DTrack/OpenCVUnity-bridger/build/CMakeFiles/ImagePlugin.dir
+/Users/nak/Projects/CulturalExperience/Code/3DTrack/OpenCVUnity-bridger/build/CMakeFiles/edit_cache.dir
+/Users/nak/Projects/CulturalExperience/Code/3DTrack/OpenCVUnity-bridger/build/CMakeFiles/rebuild_cache.dir
