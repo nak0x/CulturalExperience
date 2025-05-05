@@ -1,0 +1,19 @@
+##[pylyzer] failed /users/nak/projects/culturalexperience/code/3dtrack/opencv-track-object/calibration/calib.py 1745574439 1808
+.cv2 = pyimport "__init__.pyi"
+.__init__.pyi = pyimport "__init__.pyi"
+
+.np = pyimport "numpy"
+.numpy = pyimport "numpy"
+
+.glob: Never
+
+.logging: Never
+
+.logger: Never
+.calibrate: Never
+Type
+.Calibrator.__call__: () -> calib.Calibrator
+.Calibrator.calibrate: Never
+
+librate: Never
+

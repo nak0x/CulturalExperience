@@ -1,0 +1,25 @@
+##[pylyzer] failed /users/nak/projects/culturalexperience/code/3dtrack/opencv-track-object/traking/aruco.py 1745573827 1780
+.cv2 = pyimport "__init__.pyi"
+.__init__.pyi = pyimport "__init__.pyi"
+
+.np = pyimport "numpy"
+.numpy = pyimport "numpy"
+
+.___v_desugar_1 = pyimport "transform"
+.transform = pyimport "transform"
+.R: Never
+.glob: Never
+
+.logging: Never
+
+.___v_desugar_2: Never
+.Calibrator: Never
+.logger: Never
+.Aruco3DTrack: ClassType
+.Aruco3DTrack.dist_coeffs: Never
+.Aruco3DTrack.camera_matrix: Never
+.Aruco3DTrack.__call__: (camera_matrix: Obj, dist_coeffs: Obj) -> aruco.Aruco3DTrack
+.Aruco3DTrack.camera_matrix: {None}
+.Aruco3DTrack.dist_coeffs: {None}
+.Aruco3DTrack.start_track: () -> NoneType
+
