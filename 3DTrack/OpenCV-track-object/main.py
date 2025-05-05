@@ -1,3 +1,7 @@
-import traking
+from calibration.calib import calibrate
+from traking.aruco import Aruco3DTrack
 
-start_aruco_3d()
+calibration = calibrate()
+
+tracker = Aruco3DTrack(calibration["matrix"], calibration["distCoeffs"])
+tracker.start_track()

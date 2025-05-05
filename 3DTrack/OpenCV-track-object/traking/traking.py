@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 
-def setup_object_traking():
+def base_2d_track():
     cap = cv2.VideoCapture(0, cv2.CAP_AVFOUNDATION)
 
     while True:

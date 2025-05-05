@@ -1,0 +1,11 @@
+##[pylyzer] failed /users/nak/projects/culturalexperience/code/3dtrack/opencv-track-object/main.py 1745574452 180
+.___v_desugar_1 = pyimport "calib"
+.calib = pyimport "calib"
+.calibrate: Never
+.___v_desugar_2 = pyimport "aruco"
+.aruco = pyimport "aruco"
+.Aruco3DTrack: {aruco.Aruco3DTrack}
+.calibration: Never
+.tracker: Never
+libration: Never
+.tracker: Never
